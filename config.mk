@@ -372,6 +372,11 @@ PRODUCT_PACKAGES += \
     ShishuNightsThemeSettingsOverlay \
     ShishuNightsThemeSystemUIOverlay
 
+# Utility Overlays
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset
+
 # Volume Styles
 PRODUCT_PACKAGES += \
     VolumeDoubleLayer \
