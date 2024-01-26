@@ -347,6 +347,9 @@ PRODUCT_PACKAGES += \
 
 # UI styles
 PRODUCT_PACKAGES += \
+    UnmonetThemeAndroidOverlay \
+    UnmonetThemeSettingsOverlay \
+    UnmonetThemeSystemUIOverlay \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
     AndroidVividThemeOverlay \
